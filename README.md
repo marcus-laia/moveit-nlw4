@@ -1,3 +1,10 @@
+# moveit-nlw4
+Projeto desenvolvido ao longo da semana NLW#4. 
+
+O código neste repositório inclui é referente à aplicação desenvolvida junto às aulas da semana NLW4, a milha extra, ou seja, as melhorias e novas implementações da aplicação, estão sendo desenvolvidas e em breve o repositório será atualizado e a documentação será feita de forma mais completa. A nova versão inclui, até o momento, uma sidebar onde é possível alternar entre as páginas "Home" e "Taks", onde é possível listar tarefas e marcar as concluídas.
+
+//
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
